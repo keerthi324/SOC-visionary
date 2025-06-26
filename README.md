@@ -23,8 +23,6 @@
 
 - PyTorch model building, training loop implementation, performance evaluation, and visualization of results.
 
-- Deepened understanding of neural network architecture, hyperparameter tuning, and experiment design.
-
 - Machine Learning: Implemented K-means clustering and neural network training loops from scratch, along with performance evaluation metrics.
 
 ## Challenges I faced
